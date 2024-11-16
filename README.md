@@ -1,7 +1,7 @@
 -  Hi, I’m @Voetrix
 -  I’m interested in: Programming
 -  I’m currently learning: Luau
-- 💞 I’m looking to collaborate on: Roblox Projects
+-  I’m looking to collaborate on: Roblox Projects
 -  How to reach me: Discord is "@voetrix".
 -  Pronouns: He/Him
 <!--  Fun fact: Imagine a fun fact.
